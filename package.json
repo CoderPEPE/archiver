@@ -11,7 +11,8 @@
     "build/**/*",
     "archiver-log.json",
     "tx-list-restore.json",
-    "static/tickets.json"
+    "static/tickets.json",
+    "allowed-archivers.json"
   ],
   "bin": {
     "archive-server": "./build/server.js"
